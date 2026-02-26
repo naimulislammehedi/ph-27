@@ -14,5 +14,5 @@ let e = undefined;
 let f = Symbol('id'); 
 
 // non-primitive data types 
-let d = {price: 22}; 
-let e = [1, 2, 3, 4]
+let g = {price: 22}; 
+let h = [1, 2, 3, 4]

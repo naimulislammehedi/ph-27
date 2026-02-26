@@ -10,4 +10,5 @@ js es6
 8. accessing object data; nested object, dot vs bracket and optional chaining 
 9. looping objects: for...in, for...of 
 10. primitive and non-primitive data types
+11. null vs undefined and why undefined happens
 
