@@ -1,0 +1,13 @@
+js es6
+--------------
+1. difference between var, let and const 
+2. function default paramter for not proved values 
+3. template string, multilline string, dynamic string 
+4. arrow function syntax,  params, return 
+5. spreed operator, array max, copy arrays 
+6. object and array destructuring 
+7. keys, values, entries, delete, seal, freeze 
+8. accessing object data; nested object, dot vs bracket and optional chaining 
+9. looping objects: for...in, for...of 
+10. primitive and non-primitive data types
+
