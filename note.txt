@@ -12,4 +12,6 @@ js es6
 10. primitive and non-primitive data types
 11. null vs undefined and why undefined happens
 12. Different truthy and falsy values in JavaScript
+13. Double equal (==) vs triple equal (===), implicit conversion 
+
 
