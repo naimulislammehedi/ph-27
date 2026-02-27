@@ -16,3 +16,4 @@ js es6
 14. Explore closure in details 
 15. Callback function and pass different functions
 16. Function arguments pass by reference and pass by value
+17. Array power methods: map, forEach
