@@ -14,5 +14,5 @@ js es6
 12. Different truthy and falsy values in JavaScript
 13. Double equal (==) vs triple equal (===), implicit conversion 
 14. Explore closure in details 
-
-
+15. Callback function and pass different functions
+16. Function arguments pass by reference and pass by value
